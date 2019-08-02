@@ -1,0 +1,12 @@
+Wine Glass
+
+	1. Holds_liquid (True)
+	2. Transparent (True)
+	3. Shape (uhh, half of cylinder with stem...?)
+	4. Volume ('5.0')
+
+
+		1. Break_glass (Holds_liquid = false)
+		2. Drink_from_glass (subtracts 1.0 from 5.0 )
+		3. Dirty_hands (Transparent = false)
+		4. Break_glass (changes volume from 5.0 to 0)
