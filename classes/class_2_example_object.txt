@@ -1,0 +1,12 @@
+Hightop
+
+	1. Seats_person (True)
+	2. Color (Brown)
+	3. Width (20.0)
+	4. Height (60.0)
+
+
+		1. Tip_seat (Seats_person = false)
+		2. spill_wine (changes color from brown to purple?)
+		3. Move_to_booth (changes width from 20.0 to 70.0)
+		4. Break_seat (changes height from 60.0 to 40.0, Seats_person = false, changes width from 20.0 to 10.0)
