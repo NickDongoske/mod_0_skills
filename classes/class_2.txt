@@ -1,0 +1,13 @@
+Seat
+
+	Attributes
+		1. Seats_person (boolean)
+		2. Color (string)
+		3. Width (float)
+		4. Height (float)
+
+	Methods
+		1. Tip_Seat (changes seats_person to false)
+		2. spill_wine (changes the color)
+		3. Move_to_booth (changes width)
+		4. Break_seat (changes height, changes Seats_person, changes width)
