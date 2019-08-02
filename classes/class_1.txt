@@ -1,0 +1,13 @@
+Glassware
+
+	Attributes
+		1. Holds_liquid (boolean)
+		2. Transparent (boolean)
+		3. Shape (string)
+		4. volume (float)
+
+	Methods
+		1. Break_glass (changes Holds_liquid to false)
+		2. Drink_from_glass (changes the amount drank from volume)
+		3. Dirty_hands (changes transparent to false)
+		4. Break_glass (changes volume )
