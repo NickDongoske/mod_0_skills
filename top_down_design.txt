@@ -1,0 +1,82 @@
+1 Be conceived
+ 1.1 Mother born
+ 	1.1.1 Mother ages
+ 		1.1.1.1 Mother goes thru breakups
+ 		1.1.1.2 Mother goes to college
+ 		1.1.1.3 Mother graduates college
+ 		1.1.1.4 Mother moves to MPLS
+ 		1.1.1.5 Mother decides its time to settle down
+ 		1.1.1.6 Mother meets father
+ 		1.1.1.7 Mother becomes pregnant
+ 1.2 Father born
+ 	1.2.1 Father ages
+ 		1.2.1.1 Father goes thru breakups
+ 		1.2.1.2 Father sees his father's business fail
+ 		1.2.1.3 Father goes to college
+ 		1.2.1.4 Father graduates college
+ 		1.2.1.5 Father goes to law school
+ 		1.2.1.6 Father graduates law school
+ 		1.2.1.7 Father moves back to Mpls
+ 		1.2.1.8 Father meets Mother
+ 		1.2.1.9 Father gets Mother pregnant
+
+2 Move to CO
+	2.1 Talk to friend about opportunity in CO
+	2.2 Accept position
+	2.3 Tell friends I'm moving
+	2.4 Start emptying apartment
+		2.4.1 Clean refrigerator
+		2.4.2 Clean bathroom	
+		2.4.3 Vaccuum floors
+		2.4.4 Donate unused clothes to goodwill
+
+	2.5 Pack car
+		2.5.1 Pack large items
+		2.5.2 Pack smaller items
+		2.5.3 Stuff clothes in gaps for support
+	2.6 Start driving
+		2.6.1 Stop for gas
+		2.6.2 Drive to Lincoln, NE
+		2.6.3 Sleep in car
+		2.6.4 Wake up
+		2.6.5 Continue driving to Denver
+	2.7 Move in to new apartment
+		2.7.1 Unpack car
+		2.7.2 Go to walmart
+		2.7.3 Buy $12 blow up mattress
+		2.7.4 get back home
+		2.7.5 Sleep for 14 hours
+
+3 Quit Job
+	3.1 Become frustrated with toxic culture
+	3.2 Decide I'm done with this crap
+	3.3 Tell boss I'm done
+	3.4 Drive home relieved
+	3.5 Fall into depression
+		3.5.1 Wonder why I'm in CO at all
+		3.5.2 Realize that I enjoy sunshine 
+		3.5.3 Realize that I enjoy 50 degree weather in December
+	3.6 Decide to stay in CO
+	3.7 Start driving for uber
+	3.8 Start picking up odd jobs
+	3.9 Decide I want consistency	
+
+4 Apply to Turing
+	4.1 Talk to friend in tech
+		4.1.1 Have him tell me it's a good job and I could be good at it
+	4.2 Start doing google research
+		4.2.1 Type into google
+		4.2.2 Read results
+		4.2.3 Order priority of schools
+		4.2.4 Decide on Turing
+	4.3 Fill out application 
+		4.3.1 Take logic quiz
+			4.3.1 Pass logic quiz
+	4.4 Have interview
+			4.4.1 Get rejected
+	4.5 Try again
+		4.5.1 Get accepted
+
+
+
+
